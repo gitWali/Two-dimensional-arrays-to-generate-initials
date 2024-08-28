@@ -1,1 +1,0 @@
-# Two-dimensional-arrays-to-generate-initials
